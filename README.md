@@ -22,4 +22,4 @@ nose2
 
 
 ### Further Documentation:
-Please view the nose2tutorial.pdf file in this repository.
+Please view the nose2 Tutorial.pdf file in this repository.

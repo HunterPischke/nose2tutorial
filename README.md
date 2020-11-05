@@ -9,16 +9,16 @@ The major competitor to nose2 is pytest. A major advantage of nose 2 is that it 
 ### Installation:
 To get started with nose2 like many other libraries it is best to use the package manager pip and run the command:
 
-'''
+```
 pip install nose2
-'''
+```
 
 ### Running Tests:
 To run tests make use of the nose2 command inside any directory. It will seek out all subdirectories with unit tests or test files that have lowercase “test” at the front of the name. The command to do this is:
 
-'''
+```
 nose2
-'''
+```
 
 
 ### Further Documentation:
